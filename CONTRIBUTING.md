@@ -11,10 +11,10 @@ GoConvey is a popular 2-pronged, open-source github project (1,600+ stargazers, 
 
 ----
 
-- https://github.com/smartystreets/goconvey
-- https://github.com/smartystreets/goconvey/wiki
+- https://github.com/mailcache/goconvey
+- https://github.com/mailcache/goconvey/wiki
 
-_I should mention that the [assertions package](https://github.com/smartystreets/assertions) imported by the convey package is used by other projects at SmartyStreets and so we will be continuing to maintain that project internally._
+_I should mention that the [assertions package](https://github.com/mailcache/assertions) imported by the convey package is used by other projects at SmartyStreets and so we will be continuing to maintain that project internally._
 
 We hope to hear from you soon. Thanks!
 
@@ -22,7 +22,7 @@ We hope to hear from you soon. Thanks!
 
 # Contributing
 
-In general, the code posted to the [SmartyStreets github organization](https://github.com/smartystreets) is created to solve specific problems at SmartyStreets that are ancillary to our core products in the address verification industry and may or may not be useful to other organizations or developers. Our reason for posting said code isn't necessarily to solicit feedback or contributions from the community but more as a showcase of some of the approaches to solving problems we have adopted.
+In general, the code posted to the [SmartyStreets github organization](https://github.com/mailcache) is created to solve specific problems at SmartyStreets that are ancillary to our core products in the address verification industry and may or may not be useful to other organizations or developers. Our reason for posting said code isn't necessarily to solicit feedback or contributions from the community but more as a showcase of some of the approaches to solving problems we have adopted.
 
 Having stated that, we do consider issues raised by other githubbers as well as contributions submitted via pull requests. When submitting such a pull request, please follow these guidelines:
 

@@ -5,8 +5,8 @@ import (
 	"os"
 
 	"github.com/jtolds/gls"
+	"github.com/mailcache/goconvey/convey/reporting"
 	"github.com/smarty/assertions"
-	"github.com/smartystreets/goconvey/convey/reporting"
 )
 
 func init() {
